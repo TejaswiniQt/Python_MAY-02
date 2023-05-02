@@ -1,0 +1,9 @@
+#Check if a Substring is Present in a Given String
+
+ 
+MyString1 = "hi hello good morning"
+ 
+if "good" in MyString1:
+    print("Yes! it is present in the string")
+else:
+    print("No! it is not present")
